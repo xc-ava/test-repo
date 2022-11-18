@@ -1,5 +1,14 @@
 # Security Policy
 
+Avalanche takes the security of the platform and of its users very seriously. We and our community recognize the critical role of external security researchers and developers and welcome responsible disclosures. Valid reports will be eligible for a reward (terms and conditions apply).
+
+## Reporting a Vulnerability
+
+**Please do not file a public ticket** mentioning the vulnerability.
+
+Vulnerabilities must be disclosed to us privately with reasonable time to respond, and avoid compromise of other users and accounts, or loss of funds that are not your own. We do not reward denial of service, spam, or social engineering vulnerabilities. To disclose a vulnerability submit it through our [Bug Bounty Program](https://hackenproof.com/avalanche).
+
+
 ## Supported Versions
 
 Please see [Releases](https://github.com/ava-labs/avalanchego/releases). We recommend using the [most recently released version](https://github.com/ethereum/go-ethereum/releases/latest).
@@ -13,10 +22,12 @@ Audit reports are published in the `ava-labs/audits` repository: https://github.
 | `geth` | 20170425 | [pdf](https://github.com/ethereum/go-ethereum/blob/master/docs/audits/2017-04-25_Geth-audit_Truesec.pdf) |
 | `Discv5` | 20200124 | [pdf](https://github.com/ethereum/go-ethereum/blob/master/docs/audits/2020-01-24_DiscV5_audit_Cure53.pdf) |
 
-## Reporting a Vulnerability
 
-**Please do not file a public ticket** mentioning the vulnerability.
 
-To disclose a vulnerability submit it through our [Bug Bounty Program](https://hackenproof.com/avalanche).
 
-We and our community welcome responsible disclosures. Valid reports will be eligible for a reward (terms and conditions apply).
+
+
+ 
+ 
+
+
