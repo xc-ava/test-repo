@@ -19,8 +19,8 @@ Audit reports are published in the `ava-labs/audits` repository: https://github.
 
 | Scope | Date | Report Link |
 | ------- | ------- | ----------- |
-| `geth` | 20170425 | [pdf](https://github.com/ethereum/go-ethereum/blob/master/docs/audits/2017-04-25_Geth-audit_Truesec.pdf) |
-| `Discv5` | 20200124 | [pdf](https://github.com/ethereum/go-ethereum/blob/master/docs/audits/2020-01-24_DiscV5_audit_Cure53.pdf) |
+| `AvalancheJS` | 2021-10-4 | [pdf](https://github.com/ava-labs/audits/blob/main/avalanchejs/AVA_Labs_Avalanche_SDK_Security_Audit_Report_Halborn_v1_1.pdf) |
+
 
 
 
