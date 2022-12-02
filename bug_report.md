@@ -31,4 +31,5 @@ Which OS you used to reveal the bug.
 **Additional context**
 Add any other context about the problem here.
 
-**To best protect the Avalanchego community security Bugs should be reported in accordance to our [Security](https://github.com/xc-ava/test-repo/blob/main/SECURITY.md) Policy**
+
+**To best protect the Avalanchego community security Bugs should be reported in accordance to our [Security Policy](SECURITY.md)**
